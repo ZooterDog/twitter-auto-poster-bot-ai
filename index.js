@@ -1,4 +1,4 @@
-// By VishwaGauravIn (https://itsvg.in)
+// By Zooter (https://www.mcdonalds.com/us/en-us.html)
 
 const GenAI = require("@google/generative-ai");
 const { TwitterApi } = require("twitter-api-v2");
